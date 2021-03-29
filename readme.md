@@ -11,6 +11,11 @@ The commands I have made so far:
 - touch \<filename\> \<filename2\> \<etc...\>
 - cat \<filename\> \<filename2\> \<etc...\>
 - ls
+- pwd
+
+## Install
+
+Do you want to install these commands on your own system? Good news for you it is quiet easy! Install the bin folder in an easy accessible place. Now you just add the location to the bin folder to your path and the commands will be usable from everywhere through the terminal.
 
 ## Contribute
 
