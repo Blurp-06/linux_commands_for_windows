@@ -1,9 +1,11 @@
-#Linux commands for Windows
+# Linux commands for Windows
 
-##License
+## License
+
 These files are free to use, edit and redistribute. Honestly, I can't care less what you do with them.
 
-##Commands
+## Commands
+
 The commands I have made so far:
 
 - touch \<filename\> \<filename2\> \<etc...\>
