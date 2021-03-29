@@ -16,6 +16,7 @@ The commands for Linux I have made so far:
 Commands i made cause I wanted to:
 
 - is_prime \<number\>
+- gcd \<number\> \<number\>
 
 ## Install
 
