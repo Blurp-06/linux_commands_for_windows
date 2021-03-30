@@ -12,6 +12,7 @@ The commands for Linux I have made so far:
 - cat \<filename\> \<filename2\> \<etc...\>
 - ls
 - pwd
+- grep \<word\> \<filename\>
 
 Commands i made cause I wanted to:
 
