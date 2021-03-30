@@ -18,6 +18,7 @@ Commands i made cause I wanted to:
 
 - is_prime \<number\>
 - gcd \<number\> \<number\>
+- rnd \<number\> \<number\>
 
 ## Install
 
