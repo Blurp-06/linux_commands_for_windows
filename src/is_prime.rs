@@ -1,6 +1,6 @@
 fn main(){
-    let arg: String = std::env::args().nth(1).expect("Didn't receive a number!");
-    let number: i128 = arg.parse().expect("Value isn't a number!");
+    let number: String = std::env::args().nth(1).expect("Didn't receive a number!");
+    let number: i128 = number.parse().expect("Value isn't a number!");
 
     let mut is_prime: bool = true;
 
